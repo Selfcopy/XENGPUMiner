@@ -105,7 +105,7 @@ To build from the source, follow the steps below. Please make sure you have `git
 
 Now, proceed with the following steps to clone the repository and build the project:
 ``` bash
-git clone https://github.com/shanhaicoder/XENGPUMiner.git 
+git clone https://github.com/Selfcopy/XENGPUMiner.git 
 cd XENGPUMiner
 chmod +x build.sh
 ```
